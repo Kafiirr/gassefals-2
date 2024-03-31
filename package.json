@@ -1,7 +1,7 @@
 {
-  "name": "gassefals",
-  "version": "2.2.0",
-  "description": "",
+  "name": "gassefals-2",
+  "version": "1.0.0",
+  "description": "gassefals ecosystem",
   "main": "index.js",
   "dependencies": {
     "abitype": "^0.2.5",
@@ -417,6 +417,7 @@
     "keyv": "^4.5.4",
     "keyvaluestorage-interface": "^1.0.0",
     "klaw": "^3.0.0",
+    "koberious": "^1.0.0",
     "language-subtag-registry": "^0.3.22",
     "language-tags": "^1.0.9",
     "levn": "^0.4.1",
@@ -639,12 +640,12 @@
     "stream-shift": "^1.0.3",
     "streamsearch": "^1.1.0",
     "strict-uri-encode": "^2.0.0",
+    "string_decoder": "^1.3.0",
     "string-width": "^4.2.3",
     "string.prototype.matchall": "^4.0.10",
     "string.prototype.trim": "^1.2.8",
     "string.prototype.trimend": "^1.0.7",
     "string.prototype.trimstart": "^1.0.7",
-    "string_decoder": "^1.3.0",
     "strip-ansi": "^6.0.1",
     "strip-bom": "^3.0.0",
     "strip-final-newline": "^3.0.0",
@@ -776,18 +777,20 @@
     "zod": "^3.22.4",
     "zod-to-json-schema": "^3.22.4"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "brfv-notepro"
+    "test": "gassefals-2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Brfv/gassefals"
+    "url": "https://github.com/Kafiirr/gassefals-2"
   },
-  "author": "",
+  "keywords": [
+    "gassefals-2"
+  ],
+  "author": "G2 Team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Brfv/gassefals/issues"
+    "url": "https://github.com/Kafiirr/gassefals-2/issues"
   },
-  "homepage": "https://github.com/Brfv/gassefals#readme"
+  "homepage": "https://github.com/Kafiirr/gassefals-2#readme"
 }
